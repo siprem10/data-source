@@ -1,5 +1,11 @@
 [
     {
+        "name": "Test",
+        "terapias": ["Test"],
+        "consultorio": 1,
+        "tel": "+xxxxxxxxxxxxxxx"
+    },
+    {
         "name": "Alejandro Domínguez",
         "terapias": ["Terapeuta en Biodescodificación", "Hipnoterapia", "Sanación Cuántica", "Coeficiencia Inmunológica", "Noesiterapia"],
         "consultorio": 1,
