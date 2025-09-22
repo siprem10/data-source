@@ -1,38 +1,44 @@
-[
-    {
-        "name": "Alejandro Domínguez ",
-        "terapias": ["Terapeuta en Biodescodificación", "Hipnoterapia", "Sanación Cuántica", "Coeficiencia Inmunológica", "Noesiterapia"],
-        "consultorio": 1,
-        "tel": "+54 3585 06-5349"
+{
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "contacto": {
+        "email": "juan.perez@example.com",
+        "telefonos": [
+            {
+                "tipo": "casa",
+                "numero": "+54 11 4444-5555"
+            },
+            {
+                "tipo": "móvil",
+                "numero": "+54 9 11 6666-7777"
+            }
+        ]
     },
-    {
-        "name": "Natalia Landa",
-        "terapias": ["Atención psicopedagógica para todas las edades (niños y personas mayores)"],
-        "consultorio": 5,
-        "tel": "+54 3585 07-7577"
+    "direccion": {
+        "calle": "Av. Siempre Viva",
+        "numero": 742,
+        "ciudad": "Buenos Aires",
+        "pais": "Argentina",
+        "ubicacion": {
+            "lat": -34.6037,
+            "lng": -58.3816
+        }
     },
-    {
-        "name": "Marcela Cabral",
-        "terapias": ["Terapeuta Floral: Sistema Bach y Flores Silvestres de América", "Terapia de Regresión Péndulo Hebreo"],
-        "consultorio": 2,
-        "tel": "+54 3584 20-9660"
-    },
-    {
-        "name": "Jorge Fenigrini",
-        "terapias": ["Terapeuta en Biodescodificación"],
-        "consultorio": 3,
-        "tel": "+54 3584 01-1517"
-    },
-    {
-        "name": "Gisela Cintia Parejas",
-        "terapias": ["Terapeuta en Biodescodificación", "Transgeneracional", "Duelos", "Metahipnosis", "Liberación de Almas", "Regresión al útero, niñez, vidas pasadas"],
-        "consultorio": 4,
-        "tel": "+54 3584 24-1024"
-    },
-    {
-        "name": "Luciana Maccari",
-        "terapias": ["Terapeuta en Biodescodificación", "Hipnosis Clínica Reparadora", "Consultadora en Descodificación Bioemocional", "Humano Puente"],
-        "consultorio": 4,
-        "tel": "+54 3584 90-2052"
-    }
-]
+    "ordenes": [
+        {
+            "idOrden": 1001,
+            "fecha": "2025-09-22",
+            "items": [
+                { "producto": "Laptop", "cantidad": 1, "precio": 1200.50 },
+                { "producto": "Mouse", "cantidad": 2, "precio": 25.00 }
+            ]
+        },
+        {
+            "idOrden": 1002,
+            "fecha": "2025-09-20",
+            "items": [
+                { "producto": "Auriculares", "cantidad": 1, "precio": 80.00 }
+            ]
+        }
+    ]
+}
