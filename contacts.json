@@ -1,1 +1,16 @@
-[{"name":"Alejandro Domínguez ","terapias":["Terapeuta en Biodescodificación","Hipnoterapia","Sanación Cuántica","Coeficiencia Inmunológica","Noesiterapia"],"consultorio":"1","tel":"+54 3585 06-5349"},{"name":"Natalia Landa","terapias":["Atención psicopedagógica para todas las edades (niños y personas mayores)"],"consultorio":"5","tel":"+54 3585 07-7577"},{"name":"Marcela Cabral","terapias":["Terapeuta Floral: Sistema Bach y Flores Silvestres de América","Terapia de Regresión Péndulo Hebreo"],"consultorio":"2","tel":"+54 3584 20-9660"},{"name":"Jorge Fenigrini","terapias":["Terapeuta en Biodescodificación"],"consultorio":"3","tel":"+54 3584 01-1517"},{"name":"Gisela Cintia Parejas","terapias":["Terapeuta en Biodescodificación","Transgeneracional","Duelos","Metahipnosis","Liberación de Almas","Regresión al útero, niñez, vidas pasadas"],"consultorio":"4","tel":"+54 3584 24-1024"},{"name":"Luciana Maccari","terapias":["Terapeuta en Biodescodificación","Hipnosis Clínica Reparadora","Consultadora en Descodificación Bioemocional","Humano Puente"],"consultorio":"4","tel":"+54 3584 90-2052"}]
+[
+	{
+		"propA": "1",
+		"propB": "1",
+		"name": "Alejandro Domínguez ",
+		"terapias": [
+			"Terapeuta en Biodescodificación",
+			"Hipnoterapia",
+			"Sanación Cuántica",
+			"Coeficiencia Inmunológica",
+			"Noesiterapia"
+		],
+		"consultorio": "1",
+		"tel": "+54 3585 06-5349"
+	}
+]
